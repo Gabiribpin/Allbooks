@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log ("Boas vindas a API do Allbooks)
-  console.log("API disponível - alterando localmente para gerar conflitos no estudo de hoje em http://localhost:8000")
+  console.log("API disponível - alterando localmente para gerar conflitos em http://localhost:8000")
 })
